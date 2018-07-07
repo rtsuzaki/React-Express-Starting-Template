@@ -24,7 +24,7 @@ If everything is working correctly, there should be red bold text which says "Th
 
 If the text is black instead this means the css did not get loaded correctly.
 
-If the text says "This will not display if react component is rendered" instead then it is just displaying the html, and not so the react component did not render.
+If the text says "This will not display if react component is rendered", then it is just displaying the html which means the react component did not render.
 
 
 ## Acknowledgments
